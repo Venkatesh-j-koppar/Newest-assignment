@@ -871,6 +871,7 @@ footer>img{
 
 .main-description-left>h1{
 font-size: 25px;
+text-align: center;
 }
 .main-description-left>p{
     font-size: 15px;
@@ -878,6 +879,7 @@ font-size: 25px;
     }
 
 .main-description-right>button{
+    border: solid red;
     margin: 0px;
     margin-top: 10px;
     width:100px;
