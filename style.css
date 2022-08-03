@@ -879,7 +879,7 @@ text-align: center;
     }
 
 .main-description-right>button{
-    border: solid red;
+    border: solid #C91B28;
     margin: 0px;
     margin-top: 10px;
     width:100px;
@@ -894,8 +894,8 @@ width: 90vw;
 }
 
 .othersvg>img{
-width:25px;
-height: 25px;
+width:20px;
+height: 20px;
 }
 
   }
